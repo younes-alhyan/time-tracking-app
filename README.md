@@ -1,4 +1,4 @@
-# 📁 Time Tracking App
+# 📂 Time Tracking App
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1631270258/Challenges/j1ocp59n25odoftocgpi.jpg)
 
